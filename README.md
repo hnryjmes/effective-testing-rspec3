@@ -1,0 +1,1 @@
+# effective-testing-rspec3
