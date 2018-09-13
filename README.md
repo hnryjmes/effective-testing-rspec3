@@ -15,4 +15,12 @@ Chapter 1 - Getting Started With RSpec
 
 * Effectiveness. Do the benefits of writing the test outweigh the costs?
 
-* First spec
+* First spec: groups, examples, expectations
+
+* "A test validates that a bit of code is working properly."
+
+* "A spec describes the desired behavior of a bit of code."
+
+* "An example shows how a particular API is intended to be used."
+
+* Arrange, Act, Assert
