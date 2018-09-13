@@ -24,3 +24,5 @@ Chapter 1 - Getting Started With RSpec
 * "An example shows how a particular API is intended to be used."
 
 * Arrange, Act, Assert
+
+* hooks: common setup code
