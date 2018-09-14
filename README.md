@@ -79,4 +79,6 @@ Chapter 4 - Starting On the Outside: Acceptance Specs
 
 * (why Sinatra and not Rails? for simplicity and learning how to test...)
 
-*
+* Setting up the app: what do we want to test first?
+
+* 
