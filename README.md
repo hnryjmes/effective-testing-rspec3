@@ -45,4 +45,8 @@ Chapter 2 - From Writing Specs to Running Them
 
 * Run the most recent failing spec, the --only-failures flag
 
-* focus: add 'f' to method name (e.g. context becomes fcontext)
+* focus: add 'f' to method name (e.g. context becomes fcontext) [use temporarily!]
+
+* understanding tag filtering and passing metadata to rspec
+
+* pending examples - tracking your work in progress
