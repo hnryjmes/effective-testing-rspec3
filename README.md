@@ -43,4 +43,6 @@ Chapter 2 - From Writing Specs to Running Them
 
 * Syntax highlighting with CodeRay, identifying slow examples, running what you need i.e. searching by keyword
 
-* Run the most recent failing spec
+* Run the most recent failing spec, the --only-failures flag
+
+* focus: add 'f' to method name (e.g. context becomes fcontext)
