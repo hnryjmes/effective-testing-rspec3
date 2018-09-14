@@ -81,4 +81,6 @@ Chapter 4 - Starting On the Outside: Acceptance Specs
 
 * Setting up the app: what do we want to test first?
 
-* 
+* using HTTP: GET and POST requests
+
+* workflow: update the spec, then update the app
