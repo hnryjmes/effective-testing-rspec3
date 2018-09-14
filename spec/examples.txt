@@ -1,5 +1,7 @@
 example_id                                    | status | run_time        |
 --------------------------------------------- | ------ | --------------- |
+./02-running-specs/ex/spec/tea_spec.rb[1:1]   | passed | 0.00062 seconds |
+./02-running-specs/ex/spec/tea_spec.rb[1:2]   | failed | 0.00015 seconds |
 ./02-running-specs/spec/coffee_spec.rb[1:1]   | passed | 0.00041 seconds |
 ./02-running-specs/spec/coffee_spec.rb[1:2:1] | failed | 0.00248 seconds |
 ./02-running-specs/spec/coffee_spec.rb[1:2:2] | failed | 0.00151 seconds |

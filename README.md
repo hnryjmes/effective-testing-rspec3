@@ -50,3 +50,7 @@ Chapter 2 - From Writing Specs to Running Them
 * understanding tag filtering and passing metadata to rspec
 
 * pending examples - tracking your work in progress
+
+* Exercise 2. The --next-failure flag is different from the --only-failures flag in that it only returns the first failure and then stops further tests. Once the failure has been addressed, the next failure becomes something else.
+
+* using the shell you can make rspec output to html or to json!
