@@ -35,4 +35,12 @@ Chapter 2 - From Writing Specs to Running Them
 
 * How to generate readable documentation from your specs / How to identify the slowest examples in a suite / How to run just the specs you care about at any given moment / How to mark work in progress and come back to it later
 
-* 
+* testing all: a row of green dots, and red Fs
+
+* "By choosing a different formatter, you can tailor the output to your needs."
+
+* Example group, examples, nesting, footnote numbers
+
+* Syntax highlighting with CodeRay, identifying slow examples, running what you need i.e. searching by keyword
+
+* Run the most recent failing spec
