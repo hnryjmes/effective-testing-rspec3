@@ -75,4 +75,8 @@ Chapter 3 - The RSpec Way
 
 Chapter 4 - Starting On the Outside: Acceptance Specs
 
-* 
+* expenses app in Ruby + Sinatra + Sequel + SQLite
+
+* (why Sinatra and not Rails? for simplicity and learning how to test...)
+
+*
