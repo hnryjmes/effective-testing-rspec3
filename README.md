@@ -57,4 +57,22 @@ Chapter 2 - From Writing Specs to Running Them
 
 Chapter 3 - The RSpec Way
 
+* How your specs can give your confidence in your code / How a good test suite makes refactoring possible / How to guide your design using your specs with behavior-driven development (BDD)
+
+* "Specs increase confidence in your project."
+
+* Make change easy for yourself
+
+* "By surfacing the pain of a design problem early, specs allow you to fix it while it's cheap and easy to do so."
+
+* Making development more like a game...
+
+* Important point: making tests run quickly means you're more likely to test
+
+* don't overtest...
+
+* three types of specs: acceptance, unit, integration
+
+Chapter 4 - Starting On the Outside: Acceptance Specs
+
 * 
