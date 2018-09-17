@@ -84,3 +84,9 @@ Chapter 4 - Starting On the Outside: Acceptance Specs
 * using HTTP: GET and POST requests
 
 * workflow: update the spec, then update the app
+
+Chapter 5 - Testing in Isolation: Unit Specs
+
+* The difference between acceptance specs and unit specs / How to use dependency injection to write flexible, testable code / The use of test doubles/mock objects to stand in for real ones / How to refactor your specs to keep them clean and readable
+
+* 
