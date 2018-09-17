@@ -102,3 +102,11 @@ Chapter 5 - Testing in Isolation: Unit Specs
 * "They help prevent fragile mocks, a problem where specs pass when they should be failing."
 
 * "In this chapter, you've clarified exactly how your API is supposed to behave. You've spelled out what happens when storing an expense record succeeds or fails, using a test double to stand in for the unwritten persistence layer. You've refactored your specs so that they spell out exactly what behavior you're testing. Finally, you've used the design suggested by your tests to guide the interface of a real object."
+
+Chapter 6 - Getting Real: Integration Specs
+
+* How to set up a database for testing, without damaging your real data / Techniques for organizing shared and global setup code / How to use metadata to control how RSpec runs certain specs / How to diagnose an ordering dependency between your specs
+
+* "Now, it's time to write those dependencies for real. In this chapter, you're going to implement the Ledger class as the bottom layer of the app. You'll write code to store expense records into a database. You'll create powerful integration specs to make sure the data's really getting stored [...] By the end of the chapter, not only will your integration specs work, but so will the end-to-end acceptance specs you began this project with."
+
+* 
