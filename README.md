@@ -97,4 +97,6 @@ Chapter 5 - Testing in Isolation: Unit Specs
 
 * "It's tempting to start factoring out duplicate code while you're still writing your specs. Avoid that temptation: get your specs passing first, and then refactor. That way, you can use your specs to check your refactoring."
 
-* 
+* feature of RSpec: verifying doubles.
+
+* "They help prevent fragile mocks, a problem where specs pass when they should be failing."
