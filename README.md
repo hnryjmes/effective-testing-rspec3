@@ -100,3 +100,5 @@ Chapter 5 - Testing in Isolation: Unit Specs
 * feature of RSpec: verifying doubles.
 
 * "They help prevent fragile mocks, a problem where specs pass when they should be failing."
+
+* "In this chapter, you've clarified exactly how your API is supposed to behave. You've spelled out what happens when storing an expense record succeeds or fails, using a test double to stand in for the unwritten persistence layer. You've refactored your specs so that they spell out exactly what behavior you're testing. Finally, you've used the design suggested by your tests to guide the interface of a real object."
